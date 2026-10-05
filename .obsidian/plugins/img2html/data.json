@@ -1,0 +1,9 @@
+{
+  "imageWidth": "auto",
+  "showNotice": true,
+  "imagePath": "./assets",
+  "useCustomPath": true,
+  "includeAlt": false,
+  "useCustomAttributes": false,
+  "customAttributes": ""
+}
