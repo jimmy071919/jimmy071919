@@ -4,13 +4,28 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jimmy071919/) [![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge)](https://resume.jimmy.dev-serve.me/)
 
 ---
-## Hi there 👋
+# Hi, I'm Jimmy 👋
 
-I create blog posts and open-source packages mainly about Python and data engineering. I enjoy learning and sharing what I learn with others.
+I build AI applications, agent workflows, and full-stack tools.
+My interests include machine learning, AI fairness, and local AI deployment.
 
-📄 Check out my [resume](https://resume.jimmy.dev-serve.me/).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jimmy071919/)  [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge)](https://resume.jimmy.dev-serve.me/)
 
----
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+- **AI / ML:** Transformers, Scikit-learn, LoRA, model quantization
+- **Agents / RAG:** LangGraph, AutoGen, LangChain, LlamaIndex
+- **Backend / Data:** FastAPI, Django, SQL, MySQL, ChromaDB
+- **Tools:** Git, Docker, GitHub Actions, Electron
+
+## 🔧 What I Build
+
+## 🔧 Projects
+
+- [**Zenith**](https://github.com/zenith-tw) — Visual LLM workflows and multi-agent orchestration.
+- [**MedTMP**](https://github.com/MedTMP) — Medical AI, document auditing, and on-premise deployment.
+- [**Interactive Live2D**](https://github.com/interactive-live-2d) — AI avatars with voice interaction and local inference.
+
+📄 More projects and experience on my [portfolio](https://resume.jimmy.dev-serve.me/).
