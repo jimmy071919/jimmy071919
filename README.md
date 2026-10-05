@@ -22,8 +22,6 @@ My interests include machine learning, AI fairness, and local AI deployment.
 
 ## 🔧 What I Build
 
-## 🔧 Projects
-
 - [**Zenith**](https://github.com/zenith-tw) — Visual LLM workflows and multi-agent orchestration.
 - [**MedTMP**](https://github.com/MedTMP) — Medical AI, document auditing, and on-premise deployment.
 - [**Interactive Live2D**](https://github.com/interactive-live-2d) — AI avatars with voice interaction and local inference.
