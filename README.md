@@ -25,5 +25,6 @@ My interests include machine learning, AI fairness, and local AI deployment.
 - [**Zenith**](https://github.com/zenith-tw) — Visual LLM workflows and multi-agent orchestration.
 - [**MedTMP**](https://github.com/MedTMP) — Medical AI, document auditing, and on-premise deployment.
 - [**Interactive Live2D**](https://github.com/interactive-live-2d) — AI avatars with voice interaction and local inference.
+- [**ESP32-LLM**](https://github.com/jimmy071919/ESP32-LLM-Server) — ESP32-LLM-server
 
-📄 More projects and experience on my [portfolio](https://resume.jimmy.dev-serve.me/).
+📄 More projects and experience on my [portfolio](https://jimmy.snab.win).
