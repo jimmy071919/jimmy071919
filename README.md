@@ -1,5 +1,5 @@
 
-<img src="./assets/image.gif" width="auto">
+<img src="./assets/banner.webp" width="auto">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/jimmy071919/) [![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge)](https://resume.jimmy.dev-serve.me/)
 
